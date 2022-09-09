@@ -1,4 +1,4 @@
-# Roman Vinogradov <img src="https://w7.pngwing.com/pngs/239/267/png-transparent-computer-icons-react-science-album-chemical-element-symmetry-chemistry.png" width="35" height="35" >
+# Roman Vinogradov <img src="https://e7.pngegg.com/pngimages/772/85/png-clipart-react-amsterdam-npm-front-and-back-ends-javascript-library-globe-icon-web-application-nodejs-thumbnail.png" width="50" height="50" >
 -----------------------------------------------------------------------------------------------------------------------------------------------
 ## Contacts ##
 -----------------------------------------------------------------------------------------------------------------------------------------------
