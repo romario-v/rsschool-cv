@@ -1,4 +1,4 @@
-# Roman Vinogradov <img src="https://cdn4.iconfinder.com/data/icons/device-and-development-1/512/486_Physics_React_Science-128.png" width="50" height="50" >
+# Roman Vinogradov <img src="https://w7.pngwing.com/pngs/239/267/png-transparent-computer-icons-react-science-album-chemical-element-symmetry-chemistry.png" width="35" height="35" >
 -----------------------------------------------------------------------------------------------------------------------------------------------
 ## Contacts ##
 -----------------------------------------------------------------------------------------------------------------------------------------------
