@@ -31,16 +31,16 @@ showMessage("I like JavaScript!");
 
 ## Experience ##
 -----------------------------------------------------------------------------------------------------------------------------------------------
-! [Изображение] (https://icanchoose.ru/file/resources/5652ea75.jpg)
+<img src="https://icanchoose.ru/file/resources/5652ea75.jpg">
 
 ## Education ##
 -----------------------------------------------------------------------------------------------------------------------------------------------
 * **University**: Ukraine, Kharkiv National University of Radio Electronics
 * **Code-basics**: 
-    - HTML
-    - CSS
+    - [HTML](ru.code-basics.com)
+    - [CSS](ru.code-basics.com)
 * **HTML** **Academy**:
-    - Simulators
+    - [Simulators](htmlacademy.ru)
 
 ## English ##
 -----------------------------------------------------------------------------------------------------------------------------------------------
