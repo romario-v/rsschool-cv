@@ -5,7 +5,7 @@
 * **Location**: Krasnodar, Russia
 * **Phone**: +7(964)932-26-34
 * **Email**: zmey7a@mail.ru
-* **GitHub**: [romario-v] (https://github.com/romario-v)
+* **GitHub**: [romario-v](https://github.com/romario-v)
 
 ## About Me ##
 -----------------------------------------------------------------------------------------------------------------------------------------------
@@ -37,10 +37,10 @@ showMessage("I like JavaScript!");
 -----------------------------------------------------------------------------------------------------------------------------------------------
 * **University**: Ukraine, Kharkiv National University of Radio Electronics
 * **Code-basics**: 
-    - [HTML](ru.code-basics.com)
-    - [CSS](ru.code-basics.com)
+    - [HTML](https://ru.code-basics.com)
+    - [CSS](https://ru.code-basics.com)
 * **HTML** **Academy**:
-    - [Simulators](htmlacademy.ru)
+    - [Simulators](https://htmlacademy.ru)
 
 ## English ##
 -----------------------------------------------------------------------------------------------------------------------------------------------
