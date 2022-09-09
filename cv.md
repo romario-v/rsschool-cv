@@ -1,4 +1,4 @@
-# Roman Vinogradov <img src="https://cdn4.iconfinder.com/data/icons/device-and-development-1/512/486_Physics_React_Science-128.png" width="10" height="10" >
+# Roman Vinogradov <img src="https://cdn4.iconfinder.com/data/icons/device-and-development-1/512/486_Physics_React_Science-128.png" width="50" height="50" >
 -----------------------------------------------------------------------------------------------------------------------------------------------
 ## Contacts ##
 -----------------------------------------------------------------------------------------------------------------------------------------------
