@@ -1,4 +1,4 @@
-# Roman Vinogradov #
+# Roman Vinogradov # ![logoJS](https://e7.pngegg.com/pngimages/220/595/png-clipart-javascript-logo-product-design-brand-angularjs-dashboard-templates-angle-text.png)
 -----------------------------------------------------------------------------------------------------------------------------------------------
 ## Contacts ##
 -----------------------------------------------------------------------------------------------------------------------------------------------
